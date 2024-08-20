@@ -1,16 +1,16 @@
-## Hi there 👋
+![logo](https://github.com/NaveenInsight/NaveenInsight/blob/main/Naveen%20Banner.png)
+<h1 align="center">Hi 👋, I'm Naveenraj</h1>
+<h3 align="center">A passionate Data Analyst from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/8619169/screenshots/16116886/data_inform_illustration_animation.gif">
 
-<!--
-**NaveenInsight/NaveenInsight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=naveeninsight&label=Profile%20views&color=0e75b6&style=flat" alt="naveeninsight" /> </p>
 
-Here are some ideas to get you started:
+- I'm skilled in **Excel, Power BI, SQL & Python**
+- 📫 How to reach me **naveenrajsanthanam37@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact **The amount of data created every day is roughly 2.5 quintillion bytes! That’s enough to fill 10 million Blu-ray discs each day. As a data analyst, I’m on a mission to turn this ocean of data into actionable insights!**
+
+<h3 align="left">Connect with me:</h3>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveeninsight&" alt="naveeninsight" /></p>
