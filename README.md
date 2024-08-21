@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/NaveenInsight/NaveenInsight/blob/main/Naveen-banner.png)
 <h1 align="center">Hi 👋, I'm Naveenraj</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/8619169/screenshots/16116886/data_inform_illustration_animation.gif">
